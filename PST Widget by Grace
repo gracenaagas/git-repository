@@ -19,7 +19,7 @@ parent::__construct(
 __('PST Widget by Grace', 'wpb_widget_domain'), 
 
 // Widget description
-array( 'description' => __( 'Sample widget based on WPBeginner Tutorial', 'wpb_widget_domain' ), ) 
+array( 'description' => __( 'Widget that displays Philippine Standard Time', 'wpb_widget_domain' ), ) 
 );
 }
 
